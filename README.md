@@ -26,7 +26,7 @@ Feature
 -------
 
 Loading the kernel via GRUB  
-Build the kernel with Visual Studio 2019  
+Build the kernel with Visual Studio 2017  
 C++ language support  
 STL available  
 try/catch implementation  
